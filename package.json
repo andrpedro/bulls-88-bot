@@ -1,0 +1,29 @@
+{
+    "name": "bulls-88-bot",
+    "version": "1.0.0",
+    "description": "Discord chat bot made in nodeJS",
+    "main": "app.js",
+    "scripts": {
+        "test": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andrpedro/bulls-88-bot.git"
+    },
+    "keywords": [
+        "nodeJs",
+        "discord",
+        "bot",
+        "chat",
+        "chatbot"
+    ],
+    "author": "andre.pedro@redcore.com.br",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/andrpedro/bulls-88-bot/issues"
+    },
+    "homepage": "https://github.com/andrpedro/bulls-88-bot#readme",
+    "dependencies": {
+        "discordie": "^0.11.0"
+    }
+}
